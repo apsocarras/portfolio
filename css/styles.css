@@ -1,5 +1,6 @@
 body {
   background-color: antiquewhite;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
@@ -17,6 +18,7 @@ body {
 }
 
 a {
+
   margin-right: 20px;
   color: bisque;
 }
@@ -24,5 +26,7 @@ a {
 .card  {
   background-color: #3a4042;
   color: white;
-  padding: 5px;
+  padding: 1px;
+  border: solid #F6BC7D 3px;
+  margin: 3px;
 }
