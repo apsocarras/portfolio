@@ -30,3 +30,14 @@ a {
   border: solid #F6BC7D 3px;
   margin: 3px;
 }
+
+em.currentpage {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#resume {
+
+  background-color: red;
+
+}
