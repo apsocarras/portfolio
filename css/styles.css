@@ -17,7 +17,6 @@ body {
 }
 
 a {
-
   margin-right: 20px;
   color: bisque;
 }
@@ -25,4 +24,5 @@ a {
 .card  {
   background-color: #3a4042;
   color: white;
+  padding: 5px;
 }
