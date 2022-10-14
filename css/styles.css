@@ -10,7 +10,7 @@ body {
   margin: 5px;
 }
 
-.jumbotron img {
+img.avatar {
   border-radius: 40%;
   float: right;
   width: 200px;
@@ -36,8 +36,3 @@ em.currentpage {
   font-weight: bold;
 }
 
-#resume {
-
-  background-color: red;
-
-}
