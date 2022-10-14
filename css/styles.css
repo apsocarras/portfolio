@@ -16,8 +16,13 @@ body {
   height: auto;
 }
 
-.jumbotron a {
+a {
 
   margin-right: 20px;
   color: bisque;
+}
+
+.card  {
+  background-color: #3a4042;
+  color: white;
 }
