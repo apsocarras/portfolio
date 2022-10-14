@@ -10,7 +10,7 @@ body {
   margin: 5px;
 }
 
-img.avatar {
+.jumbotron img {
   border-radius: 40%;
   float: right;
   width: 200px;
