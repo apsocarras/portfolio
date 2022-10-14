@@ -1,16 +1,23 @@
-.wrapper {
-    display: flex;
-    width: 100%;
-  }
+body {
+  background-color: antiquewhite;
 
-#sidebar {
-    width: 250px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100vh;
-    z-index: 999;
-    background: #7386D5;
-    color: #fff;
-    transition: all 0.3s;
-  }
+}
+
+.jumbotron {
+  color: #D0C7B4;
+  background-color: #18191c;
+  margin: 5px;
+}
+
+.jumbotron img {
+  border-radius: 40%;
+  float: right;
+  width: 200px;
+  height: auto;
+}
+
+.jumbotron a {
+
+  margin-right: 20px;
+  color: bisque;
+}
