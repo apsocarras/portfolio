@@ -36,3 +36,10 @@ em.currentpage {
   font-weight: bold;
 }
 
+#ellipsis {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  height: auto;
+}
