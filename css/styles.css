@@ -8,6 +8,7 @@ body {
   color: #D0C7B4;
   background-color: #18191c;
   margin: 5px;
+  min-height: 280px;
 }
 
 .jumbotron img {
