@@ -24,8 +24,7 @@ _Simply click on the GitHub Pages link at the top of the README.md_
 
 ## Known Bugs
 
-_1.) Personal avatar sticks out of bottom of jumbotron._
-_2.) On narrow screen widths, the "Dream Vacation" card on the homepage is shorter than the other project cards._
+_On narrow screen widths, the "Dream Vacation" card on the homepage is not as wide as the other project cards._
 
 ## License
 
